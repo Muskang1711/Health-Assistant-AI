@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-core
+pymilvus
+sentence-transformers
+huggingface-hub
+datasets
+pandas
+python-dotenv
+python-multipart
+chromadb
+pytesseract  # For OCR on images
+PyPDF2  # For PDF text extraction
+Pillow  # For image handling
